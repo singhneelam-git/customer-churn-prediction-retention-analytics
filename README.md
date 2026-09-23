@@ -277,6 +277,10 @@ Provides a management-level summary including:
 * Churn distribution
 * Regional and subscription insights
 
+#### Dashboard Preview
+
+![Executive Overview Power BI Dashboard](images/Executive_Summary_01.png)
+
 ### Customer Insights
 
 Explores:
@@ -287,6 +291,10 @@ Explores:
 * Engagement
 * Satisfaction
 * Customer profiles
+
+#### Dashboard Preview
+
+![Customer Insights Power BI Dashboard](images/Customer_insights_02.png)
 
 ### Churn Analysis
 
